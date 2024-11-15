@@ -6,7 +6,7 @@ O objetivo do projeto é realizar uma análise detalhada de um conjunto de dados
 
 - Demografia (idade, gênero, tipo sanguíneo)
 - Condições médicas e histórico de admissão
-- Informações financeiras (valores de cobrança, provedores de seguro)
+- Informações financeiras (valores de cobrança, convênios médicos)
 
 ## Estrutura do Repositório
 
@@ -26,7 +26,7 @@ O objetivo do projeto é realizar uma análise detalhada de um conjunto de dados
 
 - Estatísticas descritivas (média, mediana, moda, etc.)
 - Visualização de dados demográficos e financeiros.
-- Identificação de padrões em condições médicas e medicações.
+- Identificação de padrões em condições médicas.
 
 ## Como Reproduzir
 
@@ -47,9 +47,9 @@ O objetivo do projeto é realizar uma análise detalhada de um conjunto de dados
 
 Este projeto revelou tendências importantes, como:
 
-- A relação entre idade e condições médicas mais comuns.
-- Padrões de gastos financeiros por tipo de seguro.
-- Frequência de medicamentos prescritos.
+- Correlação entre idades e predisposição a determinadas condições médicas entre diversos pacientes.
+- Incidência das doenças que mais afetam homens e mulheres.
+- Ranqueamento das condições médicas mais recorrentes entre o público analisado.
 
 ## Melhorias Futuras
 
@@ -62,4 +62,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ---
 
-_Desenvolvido com dedicação por Robson Souza.
+Desenvolvido com dedicação por Robson Souza.
