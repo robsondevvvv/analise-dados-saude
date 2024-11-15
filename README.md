@@ -32,7 +32,7 @@ O objetivo do projeto é realizar uma análise detalhada de um conjunto de dados
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/analise-dados-saude.git](https://github.com/robsondevvvv/analise-dados-saude
+   git clone https://github.com/robsondevvvv/analise-dados-saude
    ```
 2. Instale as dependências necessárias:
    ```bash
