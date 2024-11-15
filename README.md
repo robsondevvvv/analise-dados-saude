@@ -28,21 +28,6 @@ O objetivo do projeto é realizar uma análise detalhada de um conjunto de dados
 - Visualização de dados demográficos e financeiros.
 - Identificação de padrões em condições médicas.
 
-## Como Reproduzir
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/robsondevvvv/analise-dados-saude
-   ```
-2. Instale as dependências necessárias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o Jupyter Notebook:
-   ```bash
-   jupyter notebook analise_dados_saude.ipynb
-   ```
-
 ## Resultados
 
 Este projeto revelou tendências importantes, como:
